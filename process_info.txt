@@ -1,0 +1,3 @@
+Time taken per MP: 33.520 s 
+
+PSNR: 21.767
