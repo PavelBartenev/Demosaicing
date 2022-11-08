@@ -1,5 +1,7 @@
 # Demosaicing
 
+Использовался алгоритм VNG.
+
 Запуск:
 
 python3 main.py
